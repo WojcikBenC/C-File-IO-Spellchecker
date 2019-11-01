@@ -1,0 +1,1 @@
+Reads a plain text file as an input to check for spelling errors, and another plain text file as a dictionary. A valid dictionary file is all lowercase words, one word per line.
